@@ -2,6 +2,16 @@
 
 # Bot Battlr App
 
+TABLE OF CONTENTS
+
+##Overview 
+##Features
+##Getting Started 
+##Languages Used ##Usage
+##Dependencies 
+##Running the Project 
+##Contribution ##License
+##Status
 ## Overview
 
 The Bot Battlr App is a dynamic web-based application designed for bot enthusiasts. While it is not a traditional game, it offers users the ability to create, customize, and enlist bots for their "army." This project's primary focus is to provide users with the following key functionalities:
@@ -9,7 +19,10 @@ The Bot Battlr App is a dynamic web-based application designed for bot enthusias
 - View profiles of all bots rendered in the `BotCollection` component.
 - Add individual bots to your army by clicking on them. A bot can be enlisted only once.
 
-![Bot Battlr App Demo](insert-demo-gif-or-screenshot-url-here)
+- 
+Title: Bot Battlr App
+  Description: A web-based bot enlistment application.
+  Author: Samuel Akpan date: 2023-09-23
 
 ## Key Features
 
